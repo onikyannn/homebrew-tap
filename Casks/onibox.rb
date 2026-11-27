@@ -1,6 +1,6 @@
 cask "onibox" do
-  version "1.0.50-1.14.4"
-  sha256 "08e13fd8db2c2ca49edd80db74bd586192ad116af060381ca07ac8a4967a9193"
+  version "1.0.51-1.14.5"
+  sha256 "bd0270d5e8ca347cfc13264695d514e5d692921b5f37995d1583f9c0aff3f48d"
 
   url "https://github.com/onikyannn/homebrew-tap/releases/download/v#{version}/Onibox-#{version}-macOS-arm64.pkg"
 
